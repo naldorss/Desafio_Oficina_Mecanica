@@ -30,4 +30,4 @@ Cada OS possui: n°, data de emissão, um valor, status e uma data para conclus�
 
 
 
-![Modelagem_Oficina_Mecanica](https://user-images.githubusercontent.com/89051455/196558764-c2b17bb8-2a72-49bf-9b3a-c7cae20e3660.png)
+
