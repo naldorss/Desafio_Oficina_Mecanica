@@ -16,7 +16,7 @@ Cada OS possui: n°, data de emissão, um valor, status e uma data para conclus�
 
 ### Analise de requisitos
 
-* Entidades identificadas :*
+### *Entidades identificadas :*
 - Cliente
 - Equipe responsável
 - Mecânico
@@ -24,6 +24,9 @@ Cada OS possui: n°, data de emissão, um valor, status e uma data para conclus�
 - Serviço
 - Ordem de serviço
 - Tabela_de_valores_de_mão_de_obra
+
+
+
 
 
 
